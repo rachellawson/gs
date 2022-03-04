@@ -23,17 +23,18 @@ Note that the content in the GovStack specifications follws the markdown standar
 
 Other people may prefer to interact with the GovStack specifications by proposing their changes&#x20;
 
-1. Make an issue first in the issue queue.
+1. Make an issue in the issue queue.
 2. Describe the changes you propose in the issue
-3. Request access to GitBook as an Editor
-4. Create a new Change Request in GitBook in the "GovStack Specification - main" space which is where we work on new changes
-5. Add link to the change request to the issue
-6. Tag the issue with the appropriate building block tag to alert Maintainers in that area of the project
-7. The maintainer will work with you to ensure that the change meets our standards for inclusion
-8. Once a maintainer approves the change, a release manager will be alerted to commit the change
-9. We value all contributions to the project and, even if the change is not accepted, we always strive to give feedback that helps you understand the decisions taken.
+3. Tag the issue with the appropriate building block tag to alert Maintainers in that area of the project
+4. Request access to GitBook as an Editor
+5. Create a new Change Request in GitBook in the "GovStack Specification - main" space which is where we work on new changes. Add the issue number to the subject of the change request in the format `#{issue number] - {short description of the change]` - an example would be `#gov-001 - Adding contribution information`
+6. The maintainer will work with you to ensure that the change meets our standards for inclusion
+7. Once a maintainer approves the change, a release manager will be alerted to commit the change
+8. We value all contributions to the project and, even if the change is not accepted, we always strive to give feedback that helps you understand the decisions taken.
 
 ### 3. Proposing a change via email
 
 Finally, some people might prefer to simply send an email!
 
+1. Send an email to the GovStack issue queue automatically, describing the change you think should be made and include a link to the public page of the part of the specification that needs the change
+2. An issue in our issue queue will be automatically created and a maintainer will be in contact with you to work on the change together.
