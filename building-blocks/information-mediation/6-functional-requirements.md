@@ -180,7 +180,7 @@ Any implementation of a PubSub layer is subjective—it will contain required sh
 * For services that provide an OpenAPI v3 webhooks specification, the PubSub layer should be able to create necessary webhooks on those applications via API.&#x20;
 * See below for a JSON description of the active subscriptions for an application.
 
-```
+```json
 {
   securityServer: nk888,
   member: "112 (Ministry of Public Engagement) hl7-2.5",

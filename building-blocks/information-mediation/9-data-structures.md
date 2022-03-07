@@ -18,9 +18,7 @@ The following standards are applicable to data structures in the BB:&#x20;
 
 The Mediator BB key element is Service. The Service is used by a consuming building block or an application and offered by a provider building block or Application. Both Provider and Consumer MUST be Members of Mediator BB. Members of the mediator BB can be an organization (governmental or not, business or not) or a person (citizen as a rule).
 
-{% file src="../../.gitbook/assets/Mediator-BB-entities.drawio (1).png" %}
-Draw.io source in github: [https://github.com/aleksander-reitsakas/InformationMediatorAPI/blob/main/IM/diagrams/Mediator-BB-entities.drawio.png](https://github.com/aleksander-reitsakas/InformationMediatorAPI/blob/main/IM/diagrams/Mediator-BB-entities.drawio.png).
-{% endfile %}
+![Draw.io source in github: https://github.com/aleksander-reitsakas/InformationMediatorAPI/blob/main/IM/diagrams/Mediator-BB-entities.drawio.png.](<../../.gitbook/assets/Mediator-BB-entities.drawio (1).png>)
 
 To become a Member of Mediator BB participant must fulfil declared requirements and apply for onboarding. In the process of onboarding a Member is registered with Mediator BB and gets credentials to connect to Mediator BB. Normally it is done the way that a Member provides a certificate of recognized CA and requests signed with this certificate are considered as legitimate requests of the Member. A member entity can access the PubSub configuration and register a room to publish its own event type as a publisher through its own admin.&#x20;
 
@@ -76,9 +74,7 @@ Access Rights ACL
 
 Resource Model is extension of Access Layer model:
 
-{% file src="../../.gitbook/assets/dsgsd.png" %}
-**Draw.io source in github:** [**https://github.com/aleksander-reitsakas/InformationMediatorAPI/blob/main/IM/diagrams/Mediator-BB-PubSub-entities.drawio.png**](https://github.com/aleksander-reitsakas/InformationMediatorAPI/blob/main/IM/diagrams/Mediator-BB-PubSub-entities.drawio.png)
-{% endfile %}
+![Draw.io source in github: https://github.com/aleksander-reitsakas/InformationMediatorAPI/blob/main/IM/diagrams/Mediator-BB-PubSub-entities.drawio.png](../../.gitbook/assets/dsgsd.png)
 
 ### 9.3.2 Data Elements
 
